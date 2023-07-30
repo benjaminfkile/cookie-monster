@@ -1,1 +1,1 @@
-node index.ts
+npm start
